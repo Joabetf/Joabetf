@@ -1,4 +1,4 @@
-### Hello, Hello, I'm Joabe👋
+### Hello, I'm Joabe👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joabe-t-00ab762a3/)
 
