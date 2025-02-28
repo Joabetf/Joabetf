@@ -10,6 +10,6 @@
         <img align= "center" alt= "html5" src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
             <img align= "center" alt= "html5" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
                 <img align= "center" alt= "html5" src= "https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-</div><br>
+</div></br>
 
 Passionate about studying programming, especially Python.
